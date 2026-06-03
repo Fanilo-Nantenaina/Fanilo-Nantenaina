@@ -79,9 +79,9 @@ operability: software that is not just shipped, but run well.
 
 |                                          |                                                                                                                                        |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **[MERN on GKE](git@github.com:Fanilo-Nantenaina/microservices-kubernetes.git)**                          | Containerized MERN stack on GCP / Kubernetes with HPA autoscaling and Grafana observability &nbsp;·&nbsp; `GKE` `Kubernetes` `Grafana` |
-| **[Multi-Criteria Decision Support](git@github.com:Fanilo-Nantenaina/ADOMC-programmation_evolutive.git)** | Optimization & evolutionary-programming engine with a full-stack interface &nbsp;·&nbsp; `Python` `FastAPI` `Next.js`                  |
-| **[Business Process Management](git@github.com:Fanilo-Nantenaina/bonita-workflow.git)**     | Service-oriented BPM system modeling and automating business workflows &nbsp;·&nbsp; `SOA` `BPM`                                       |
+| **[MERN on GKE](https://github.com/Fanilo-Nantenaina/microservices-kubernetes)**                          | Containerized MERN stack on GCP / Kubernetes with HPA autoscaling and Grafana observability &nbsp;·&nbsp; `GKE` `Kubernetes` `Grafana` |
+| **[Multi-Criteria Decision Support](https://github.com/Fanilo-Nantenaina/ADOMC-programmation_evolutive)** | Optimization & evolutionary-programming engine with a full-stack interface &nbsp;·&nbsp; `Python` `FastAPI` `Next.js`                  |
+| **[Business Process Management](https://github.com/Fanilo-Nantenaina/bonita-workflow)**     | Service-oriented BPM system modeling and automating business workflows &nbsp;·&nbsp; `SOA` `BPM`                                       |
 | **[Decision Analytics](#)**              | Reporting and decision dashboards built on a structured analytics layer &nbsp;·&nbsp; `Zoho Analytics` `SQL`                           |
 | **[Java + Advanced PostgreSQL](#)**      | Data-intensive application built on advanced relational design &nbsp;·&nbsp; `Java` `PostgreSQL`                                       |
 | **[Smart Pollination Simulation](#)**    | Multi-agent simulation modeling emergent pollination behavior &nbsp;·&nbsp; `NetLogo` `Multi-Agent`                                    |
