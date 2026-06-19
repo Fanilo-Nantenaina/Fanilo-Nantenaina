@@ -2,98 +2,126 @@
 
 # Fanilo Nantenaina
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=6E7681&center=true&vCenter=true&width=580&height=42&lines=Full-Stack+Engineer;Backend+%26+Cloud+Engineering;Kubernetes+%26+Cloud-Native;Distributed+Systems+%26+Automation" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1000&color=B08D4F&center=true&vCenter=true&width=620&height=46&lines=Full-Stack+Engineer;FastAPI+%2B+React+%2B+TypeScript;Architecture%2C+Security+%26+Performance;Scaling+up+into+Cloud-Native+%26+Kubernetes" alt="roles" />
 
-I build and operate cloud-native systems — backend services, Kubernetes infrastructure and the automation around them.
+I design and ship full-stack systems end to end — robust backends, polished interfaces,
+and the architecture, security and tooling that make them dependable in production.
 
-<!-- <sub>M2 Computer Science · ENI Fianarantsoa · Madagascar · Open to remote</sub>
- -->
+<a href="https://fanilonantenaina.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-fanilonantenaina.vercel.app-B08D4F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2933" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/ratolojanahary-fanilo-nantenaina/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2933" alt="LinkedIn" />
+</a>
+<a href="mailto:r.fanilonantenain.a@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2933" alt="Email" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Fanilo-Nantenaina&style=flat-square&color=B08D4F&label=Profile+views" alt="profile views" />
+<img src="https://img.shields.io/badge/Based_in-Madagascar_·_UTC%2B3-1F2933?style=flat-square" alt="location" />
+<img src="https://img.shields.io/badge/Open_to-Remote-2EA043?style=flat-square" alt="open to remote" />
+
 </div>
 
 ---
 
 ### About
 
-Backend-focused full-stack engineer with a systems and infrastructure mindset.
-I design distributed services, deploy them on Kubernetes, and build the
-automation, observability and data tooling that keep them reliable at scale.
+I'm a **full-stack engineer** who builds complete systems: I'm equally at home
+designing a clean FastAPI service layer, wiring it into a React/Next.js
+interface, and hardening the whole thing for production. My day-to-day centers on
+**Python/FastAPI**, **TypeScript/React** and real-world integration work —
+including a multi-tenant middleware bridging the **Sage 100** ERP to a modern
+REST API.
 
-I'm comfortable across the full path of a system — from REST APIs and
-service-oriented architecture, down to GKE, horizontal autoscaling, CI/CD and
-Grafana monitoring — with a working interest in applied machine learning and
-decision-support systems. I care most about clean architecture, performance and
-operability: software that is not just shipped, but run well.
+What sets the tone for me is **architecture, security and performance**:
+software that isn't just shipped, but designed to be maintained, audited and run
+well. Lately I'm **scaling that mindset up into cloud-native** — Kubernetes,
+GKE, autoscaling and observability — bringing the same rigor to how systems are
+operated, not just written.
+
+Currently pursuing an **M2 in Computer Science** at ENI Fianarantsoa.
 
 ---
 
-### Stack
+### Tech Stack
 
 <div align="center">
 
 **Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts&theme=dark" alt="backend" />
-
-<sub>REST APIs · Service-Oriented Architecture</sub>
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,grafana,linux,githubactions&theme=dark" alt="cloud" />
-
-<sub>GKE · Horizontal Autoscaling · CI/CD · Observability</sub>
-
-**Data**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="data" />
-
-<sub>Relational design · Zoho Analytics</sub>
-
-**Python & ML**
-
-<img src="https://skillicons.dev/icons?i=py,fastapi&theme=dark" alt="python" />
-
-<sub>NumPy · Pandas · Streamlit · scikit-learn</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,ts&theme=dark" alt="backend" />
+<br/>
+<sub>REST APIs · Async SQLAlchemy · Service-Oriented Architecture · Auth &amp; Security (JWT, MFA/TOTP)</sub>
 
 **Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,flutter&theme=dark" alt="frontend" />
+<br/>
+<sub>Next.js App Router · Framer Motion · Responsive &amp; accessible UI</sub>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js&theme=dark" alt="frontend" />
+**Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="data" />
+<br/>
+<sub>Relational design · SQL Server (Sage) · Caching · Zoho Analytics</sub>
+
+**Cloud &amp; DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,grafana,githubactions,linux&theme=dark" alt="cloud" />
+<br/>
+<sub>GKE · Horizontal autoscaling · CI/CD · Observability — <em>actively deepening</em></sub>
+
+**Python &amp; ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="python ml" />
+<br/>
+<sub>NumPy · Pandas · scikit-learn · Streamlit · Decision-support systems</sub>
 
 </div>
 
 ---
 
-### Focus Areas
+### What I Focus On
 
-|                                   |                                                                    |
-| --------------------------------- | ------------------------------------------------------------------ |
-| **Backend & Distributed Systems** | Service-oriented architecture, REST APIs, clean service boundaries |
-| **Cloud-Native & Orchestration**  | Kubernetes, GKE, horizontal autoscaling, container deployment      |
-| **Reliability & Observability**   | Grafana dashboards, monitoring, health and scaling under load      |
-| **Automation & Tooling**          | CI/CD pipelines, system scripting, workflow automation             |
-| **Software Architecture**         | Maintainable design, BPM / SOA, performance-oriented systems       |
-| **Data & ML**                     | Decision support, analytics, applied machine learning              |
+| Area                                 | What it means in practice                                                                 |
+| ------------------------------------ | ----------------------------------------------------------------------------------------- |
+| **Full-Stack Delivery**              | Owning a feature from the database schema and API contract to the rendered, accessible UI |
+| **Architecture &amp; Code Quality**  | Clean service boundaries, SOA, maintainable and performance-oriented design               |
+| **Security &amp; Reliability**       | API hardening, security audits (ASVS), MFA/TOTP, secret rotation, careful auth flows      |
+| **ERP &amp; Systems Integration**    | Bridging legacy systems (Sage 100, COM) to modern REST middleware                         |
+| **Cloud-Native &amp; Orchestration** | Kubernetes, GKE, autoscaling, container deployment — _the direction I'm growing in_       |
+| **Automation &amp; Tooling**         | CI/CD pipelines, system scripting, developer tooling and workflow automation              |
 
 ---
 
 ### Selected Work
 
-|                                          |                                                                                                                                        |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **[MERN on GKE](https://github.com/Fanilo-Nantenaina/microservices-kubernetes)**                          | Containerized MERN stack on GCP / Kubernetes with HPA autoscaling and Grafana observability &nbsp;·&nbsp; `GKE` `Kubernetes` `Grafana` |
-| **[Multi-Criteria Decision Support](https://github.com/Fanilo-Nantenaina/ADOMC-programmation_evolutive)** | Optimization & evolutionary-programming engine with a full-stack interface &nbsp;·&nbsp; `Python` `FastAPI` `Next.js`                  |
-| **[Business Process Management](https://github.com/Fanilo-Nantenaina/bonita-workflow)**     | Service-oriented BPM system modeling and automating business workflows &nbsp;·&nbsp; `SOA` `BPM`                                       |
-| **[Decision Analytics](#)**              | Reporting and decision dashboards built on a structured analytics layer &nbsp;·&nbsp; `Zoho Analytics` `SQL`                           |
-| **[Java + Advanced PostgreSQL](#)**      | Data-intensive application built on advanced relational design &nbsp;·&nbsp; `Java` `PostgreSQL`                                       |
-| **[Smart Pollination Simulation](#)**    | Multi-agent simulation modeling emergent pollination behavior &nbsp;·&nbsp; `NetLogo` `Multi-Agent`                                    |
+| Project                                                                                                   | Description                                                                                 | Stack                        |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------- |
+| **[MERN on GKE](https://github.com/Fanilo-Nantenaina/microservices-kubernetes)**                          | Containerized MERN stack on GCP / Kubernetes with HPA autoscaling and Grafana observability | `GKE` `Kubernetes` `Grafana` |
+| **[Multi-Criteria Decision Support](https://github.com/Fanilo-Nantenaina/ADOMC-programmation_evolutive)** | Optimization &amp; evolutionary-programming engine with a full-stack interface              | `Python` `FastAPI` `Next.js` |
+| **[Business Process Management](https://github.com/Fanilo-Nantenaina/bonita-workflow)**                   | Service-oriented BPM system modeling and automating business workflows                      | `SOA` `BPM`                  |
+| **Decision Analytics**                                                                                    | Reporting and decision dashboards built on a structured analytics layer                     | `Zoho Analytics` `SQL`       |
+| **Java + Advanced PostgreSQL**                                                                            | Data-intensive application built on advanced relational design                              | `Java` `PostgreSQL`          |
+| **Smart Pollination Simulation**                                                                          | Multi-agent simulation modeling emergent pollination behavior                               | `NetLogo` `Multi-Agent`      |
+
+> 💡 My production work — including the multi-tenant **Sage 100 ↔ FastAPI** middleware
+> and other private/pro projects — lives on a self-hosted Forgejo instance.
+> My **[portfolio](https://fanilonantenaina.vercel.app)** aggregates the full
+> picture (GitHub **and** Forgejo activity) in one place.
 
 ---
 
 ### Currently
 
 ```text
-→  Deepening Kubernetes operability — autoscaling, observability, resilient deploys
-→  Building backend services with clean, service-oriented architecture
-→  Exploring applied ML and decision-support systems
+→  Scaling up into cloud-native — Kubernetes operability, autoscaling, resilient deploys
+→  Building secure backend services with clean, service-oriented architecture
+→  Hardening systems end to end: ASVS audits, MFA/TOTP, secret rotation
+→  Exploring applied ML & decision-support systems
 ```
 
 ---
@@ -102,13 +130,21 @@ operability: software that is not just shipped, but run well.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Fanilo-Nantenaina&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=8B949E&icon_color=6E7681&title_color=8B949E" alt="github stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fanilo-Nantenaina&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=8B949E&icon_color=B08D4F&title_color=B08D4F&ring_color=B08D4F" alt="github stats" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanilo-Nantenaina&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=00000000&text_color=8B949E&title_color=8B949E" alt="top languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=Fanilo-Nantenaina&hide_border=true&background=00000000&stroke=8B949E&ring=B08D4F&fire=B08D4F&currStreakLabel=B08D4F&sideLabels=8B949E&dates=6E7681&currStreakNum=8B949E&sideNums=8B949E" alt="streak" />
 
-<br><br>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fanilo-Nantenaina&bg_color=00000000&color=8B949E&line=6E7681&point=8B949E&area=true&hide_border=true&height=300" alt="activity graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanilo-Nantenaina&layout=compact&hide_border=true&langs_count=10&count_private=true&bg_color=00000000&text_color=8B949E&title_color=B08D4F" alt="top languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fanilo-Nantenaina&bg_color=00000000&color=8B949E&line=B08D4F&point=8B949E&area=true&area_color=B08D4F&hide_border=true&height=300" alt="activity graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fanilo-Nantenaina&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
@@ -116,7 +152,9 @@ operability: software that is not just shipped, but run well.
 
 <div align="center">
 
-### Connect
+<sub>Designed with the same care I bring to production — clean, fast, intentional.</sub>
+
+<br/>
 
 [Portfolio](https://fanilonantenaina.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ratolojanahary-fanilo-nantenaina/) &nbsp;·&nbsp; [GitHub](https://github.com/Fanilo-Nantenaina) &nbsp;·&nbsp; [Email](mailto:r.fanilonantenain.a@gmail.com)
 
