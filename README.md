@@ -1,173 +1,156 @@
 <div align="center">
 
-<!-- ========================= HERO ========================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2933,100:B08D4F&height=180&section=header&text=Fanilo%20Nantenaina&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Engineer%20·%20Madagascar&descSize=16&descAlignY=56&descColor=E8DCC4" alt="header" width="100%" />
 
-# Hi 👋, I'm <a href="https://fanilonantenaina.vercel.app">Fanilo</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=B08D4F&center=true&vCenter=true&width=600&height=38&lines=FastAPI+%2B+React+%2B+TypeScript;Architecture+%C2%B7+S%C3%A9curit%C3%A9+%C2%B7+Performance;Full-stack+aujourd'hui%2C+cloud-native+demain" alt="roles" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1000&color=B08D4F&center=true&vCenter=true&width=640&height=46&lines=Full-Stack+Engineer+from+Madagascar+%F0%9F%87%B2%F0%9F%87%AC;FastAPI+%2B+React+%2B+TypeScript;Architecture%2C+Security+%26+Performance;Scaling+up+into+Cloud-Native+%26+Kubernetes" alt="roles" />
-
-<p align="center" width="100%">
-I turn complex, real-world problems into clean, high-performance systems — robust
-backends, polished interfaces, and the architecture, security and tooling that keep
-them dependable in production. Equally at home wiring a FastAPI service into a
-Next.js app or hardening it for the real world. Now scaling that mindset up into
-cloud-native. Let's build something people actually want to use.
-</p>
-
-<br/>
-
-<!-- Animated 3D tech icons -->
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="48" height="48" />
-
-<br/><br/>
-
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="rest api" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="prettier" width="48" height="48" />
-
-<br/>
-
-<a href="https://fanilonantenaina.vercel.app"><img src="https://img.shields.io/badge/Portfolio-fanilonantenaina.vercel.app-B08D4F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2933" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/ratolojanahary-fanilo-nantenaina/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2933" alt="LinkedIn" /></a>
-<a href="mailto:r.fanilonantenain.a@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2933" alt="Email" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=Fanilo-Nantenaina&style=flat-square&color=B08D4F&label=Profile+views" alt="profile views" />
-<img src="https://img.shields.io/badge/Based_in-Madagascar_·_UTC%2B3-1F2933?style=flat-square" alt="location" />
-<img src="https://img.shields.io/badge/Open_to-Remote-2EA043?style=flat-square" alt="open to remote" />
+<a href="https://fanilonantenaina.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B08D4F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ratolojanahary-fanilo-nantenaina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:r.fanilonantenain.a@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=Fanilo-Nantenaina&style=flat-square&color=B08D4F&label=views" alt="views" />
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+```bash
+~ $ whoami
+```
 
-### About
+Je suis Fanilo — ingénieur full-stack basé à Tuléar, Madagascar. Mon travail
+ne s'arrête pas à « ça marche » : je conçois des systèmes pensés pour être
+maintenus, audités et opérés sereinement. Au quotidien, ça veut dire une couche
+de services **FastAPI** propre, une interface **React/Next.js** soignée, et tout
+ce qui tient l'ensemble debout en production. En ce moment, je travaille sur un
+middleware multi-tenant qui relie l'ERP **Sage 100** à une API REST moderne — le
+genre de pont legacy-vers-moderne que j'aime particulièrement.
 
-I'm a **full-stack engineer** who builds complete systems — from a clean
-**FastAPI** service layer to a polished **React/Next.js** interface, and the
-hardening that makes the whole thing production-ready.
+Trois mots résument ma façon de coder : **architecture, sécurité, performance**.
+Et une direction claire pour la suite : faire monter cette exigence vers le
+**cloud-native** — Kubernetes, GKE, autoscaling, observabilité.
 
-- 🔭 **The mission:** Open to new roles where I can own systems end to end and make real impact.
-- 🌱 **Current sprint:** Deepening **Kubernetes, GKE & cloud-native deployment** — scaling _how_ systems run, not just how they're written.
-- 🔐 **My signature:** Architecture, security & performance — ASVS audits, MFA/TOTP, secret rotation, careful auth flows.
-- 🧩 **Real-world work:** A multi-tenant middleware bridging the **Sage 100** ERP to a modern REST API.
-- 🎓 **Studying:** M2 in Computer Science · ENI Fianarantsoa · Madagascar 🇲🇬
-- 💬 **Let's talk:** Python, FastAPI, TypeScript, React, system architecture — always down.
-
-<br clear="right"/>
-
----
-
-### 🛠 Tech Stack &amp; Tools
-
-**Backend &amp; APIs**
-
-[![Backend](https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,java,php&theme=dark)](https://skillicons.dev)
-
-<sub>REST APIs · Async SQLAlchemy · Service-Oriented Architecture · Sage 100 (COM) integration · Auth &amp; Security (JWT, MFA/TOTP)</sub>
-
-**Frontend &amp; Mobile**
-
-[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter&theme=dark)](https://skillicons.dev)
-
-<sub>Next.js App Router · Framer Motion · Responsive &amp; accessible UI</sub>
-
-**Databases**
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark)](https://skillicons.dev)
-
-<sub>Relational design · Microsoft SQL Server (Sage) · Caching · Zoho Analytics</sub>
-
-**Cloud &amp; DevOps**
-
-[![Cloud](https://skillicons.dev/icons?i=docker,kubernetes,gcp,grafana,githubactions,vercel,linux,bash&theme=dark)](https://skillicons.dev)
-
-<sub>GKE · Horizontal autoscaling · CI/CD · Observability — <em>actively deepening</em></sub>
-
-**Python &amp; ML**
-
-[![ML](https://skillicons.dev/icons?i=py,sklearn,tensorflow&theme=dark)](https://skillicons.dev)
-
-<sub>NumPy · Pandas · scikit-learn · Streamlit · Decision-support systems</sub>
-
-**Daily Tools &amp; Design**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,figma,ps&theme=dark)](https://skillicons.dev)
-
-<sub>Git &amp; self-hosted Forgejo · Postman · VS Code · Figma · Photoshop</sub>
-
----
-
-### What I Focus On
-
-| Area                                 | What it means in practice                                                                 |
-| ------------------------------------ | ----------------------------------------------------------------------------------------- |
-| **Full-Stack Delivery**              | Owning a feature from the database schema and API contract to the rendered, accessible UI |
-| **Architecture &amp; Code Quality**  | Clean service boundaries, SOA, maintainable and performance-oriented design               |
-| **Security &amp; Reliability**       | API hardening, ASVS audits, MFA/TOTP, secret rotation, careful auth flows                 |
-| **ERP &amp; Systems Integration**    | Bridging legacy systems (Sage 100, COM) to modern REST middleware                         |
-| **Cloud-Native &amp; Orchestration** | Kubernetes, GKE, autoscaling, container deployment — _the direction I'm growing in_       |
-| **Automation &amp; Tooling**         | CI/CD pipelines, system scripting, developer tooling and workflow automation              |
-
----
-
-### Selected Work
-
-| Project                                                                                                   | Description                                                                                 | Stack                        |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------- |
-| **[MERN on GKE](https://github.com/Fanilo-Nantenaina/microservices-kubernetes)**                          | Containerized MERN stack on GCP / Kubernetes with HPA autoscaling and Grafana observability | `GKE` `Kubernetes` `Grafana` |
-| **[Multi-Criteria Decision Support](https://github.com/Fanilo-Nantenaina/ADOMC-programmation_evolutive)** | Optimization &amp; evolutionary-programming engine with a full-stack interface              | `Python` `FastAPI` `Next.js` |
-| **[Business Process Management](https://github.com/Fanilo-Nantenaina/bonita-workflow)**                   | Service-oriented BPM system modeling and automating business workflows                      | `SOA` `BPM`                  |
-| **Decision Analytics**                                                                                    | Reporting and decision dashboards built on a structured analytics layer                     | `Zoho Analytics` `SQL`       |
-| **Java + Advanced PostgreSQL**                                                                            | Data-intensive application built on advanced relational design                              | `Java` `PostgreSQL`          |
-| **Smart Pollination Simulation**                                                                          | Multi-agent simulation modeling emergent pollination behavior                               | `NetLogo` `Multi-Agent`      |
-
-> 💡 My production work — including the multi-tenant **Sage 100 &harr; FastAPI** middleware
-> and other private/pro projects — lives on a self-hosted **Forgejo** instance.
-> My **[portfolio](https://fanilonantenaina.vercel.app)** aggregates the full picture
-> (GitHub **and** Forgejo activity) in one place.
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fanilo-Nantenaina&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=8B949E&icon_color=B08D4F&title_color=B08D4F&ring_color=B08D4F" alt="github stats" />
-&nbsp;&nbsp;
-<img height="165" src="https://streak-stats.demolab.com?user=Fanilo-Nantenaina&hide_border=true&background=00000000&stroke=8B949E&ring=B08D4F&fire=B08D4F&currStreakLabel=B08D4F&sideLabels=8B949E&dates=6E7681&currStreakNum=8B949E&sideNums=8B949E" alt="streak" />
+> 🎓 Actuellement en M2 Informatique à l'ENI Fianarantsoa.
+> 🔭 Ouvert aux opportunités en remote.
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanilo-Nantenaina&layout=compact&hide_border=true&langs_count=10&count_private=true&bg_color=00000000&text_color=8B949E&title_color=B08D4F" alt="top languages" />
+```bash
+~ $ stack --all
+```
 
-<br/><br/>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fanilo-Nantenaina&bg_color=00000000&color=8B949E&line=B08D4F&point=8B949E&area=true&area_color=B08D4F&hide_border=true&height=300" alt="activity graph" />
+**Backend &amp; APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,java,php&theme=dark" alt="backend" />
+<br/>
+<sub>REST · Async SQLAlchemy · SOA · Sage 100 (COM) · JWT / MFA-TOTP</sub>
 
-<br/><br/>
+**Bases de données**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="databases" />
+<br/>
+<sub>Modélisation · SQL Server (Sage) · Cache · Zoho Analytics</sub>
+
+**Python &amp; ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow&theme=dark" alt="ml" />
+<br/>
+<sub>NumPy · Pandas · scikit-learn · Aide à la décision</sub>
+
+</td>
+<td valign="top" width="50%">
+
+**Frontend &amp; Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter&theme=dark" alt="frontend" />
+<br/>
+<sub>Next.js App Router · Framer Motion · UI accessible</sub>
+
+**Cloud &amp; DevOps** <sub>— en montée</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,grafana,githubactions,vercel,linux,bash&theme=dark" alt="cloud" />
+<br/>
+<sub>GKE · Autoscaling horizontal · CI/CD · Observabilité</sub>
+
+**Outils &amp; Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" alt="tools" />
+<br/>
+<sub>Git &amp; Forgejo auto-hébergé · Postman · Figma · Photoshop</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```bash
+~ $ now
+```
+
+|                      |                                                                        |
+| -------------------- | ---------------------------------------------------------------------- |
+| 🌱 **J'approfondis** | Kubernetes & GKE — autoscaling, déploiements résilients, observabilité |
+| 🔐 **Je consolide**  | Sécurité de bout en bout : audits ASVS, MFA/TOTP, rotation de secrets  |
+| 🧪 **J'explore**     | ML appliqué & systèmes d'aide à la décision                            |
+| ✍️ **J'écris**       | Outils internes et automatisations qui font gagner du temps à l'équipe |
+
+<br/>
+
+```bash
+~ $ work --selected
+```
+
+| Projet                                                                                                    | En bref                                                                             | Stack                        |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------- |
+| **[MERN sur GKE](https://github.com/Fanilo-Nantenaina/microservices-kubernetes)**                         | Stack MERN conteneurisée sur GCP/Kubernetes, autoscaling HPA, observabilité Grafana | `GKE` `K8s` `Grafana`        |
+| **[Aide à la décision multicritère](https://github.com/Fanilo-Nantenaina/ADOMC-programmation_evolutive)** | Moteur d'optimisation & programmation évolutive avec interface full-stack           | `Python` `FastAPI` `Next.js` |
+| **[Business Process Management](https://github.com/Fanilo-Nantenaina/bonita-workflow)**                   | Système BPM orienté services, modélisation et automatisation de workflows métier    | `SOA` `BPM`                  |
+| **Decision Analytics**                                                                                    | Tableaux de bord décisionnels sur une couche analytique structurée                  | `Zoho` `SQL`                 |
+| **Java + PostgreSQL avancé**                                                                              | Application data-intensive sur design relationnel avancé                            | `Java` `PostgreSQL`          |
+| **Simulation de pollinisation**                                                                           | Simulation multi-agents modélisant un comportement émergent                         | `NetLogo` `Multi-Agent`      |
+
+> Mon travail de production — dont le middleware **Sage 100 ↔ FastAPI** et
+> d'autres projets pro/privés — vit sur une instance **Forgejo** auto-hébergée.
+> Mon **[portfolio](https://fanilonantenaina.vercel.app)** réunit l'ensemble
+> (activité GitHub **et** Forgejo) au même endroit.
+
+<br/>
+
+```bash
+~ $ stats --github
+```
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Fanilo-Nantenaina&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=8B949E&icon_color=B08D4F&title_color=B08D4F&ring_color=B08D4F" alt="stats" />
+&nbsp;&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=Fanilo-Nantenaina&hide_border=true&background=00000000&stroke=8B949E&ring=B08D4F&fire=B08D4F&currStreakLabel=B08D4F&sideLabels=8B949E&dates=6E7681&currStreakNum=8B949E&sideNums=8B949E" alt="streak" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanilo-Nantenaina&layout=compact&hide_border=true&langs_count=10&count_private=true&bg_color=00000000&text_color=8B949E&title_color=B08D4F" alt="languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fanilo-Nantenaina&bg_color=00000000&color=8B949E&line=B08D4F&point=8B949E&area=true&area_color=B08D4F&hide_border=true&height=280" alt="activity" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Fanilo-Nantenaina&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
----
+<br/>
+
+```bash
+~ $ reach --me
+```
+
+Une idée à challenger, un projet à construire, ou juste envie d'échanger sur
+l'archi d'un système ? Le plus simple reste un message direct.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="56" alt="coffee" /> <em><b>I love meeting people who build.</b> Want to talk shop, brainstorm an idea, or just say hi? <b>My virtual door is always open.</b> ☕️</em>
-
-<br/><br/>
-
-<sub>Designed with the same care I bring to production — clean, fast, intentional.</sub>
-
 [Portfolio](https://fanilonantenaina.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ratolojanahary-fanilo-nantenaina/) &nbsp;·&nbsp; [GitHub](https://github.com/Fanilo-Nantenaina) &nbsp;·&nbsp; [Email](mailto:r.fanilonantenain.a@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B08D4F,100:1F2933&height=120&section=footer" alt="footer" width="100%" />
 
 </div>
