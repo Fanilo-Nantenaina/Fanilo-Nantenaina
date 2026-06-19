@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2933,100:B08D4F&height=180&section=header&text=Fanilo%20Nantenaina&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Engineer%20·%20Madagascar&descSize=16&descAlignY=56&descColor=E8DCC4" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2933,100:B08D4F&height=180&section=header&text=Fanilo%20Nantenaina&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Engineer%20&descSize=16&descAlignY=56&descColor=E8DCC4" alt="header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=B08D4F&center=true&vCenter=true&width=640&height=38&lines=FastAPI+%2B+React+%2B+TypeScript;Architecture+%C2%B7+S%C3%A9curit%C3%A9+%C2%B7+Performance;Full-stack+aujourd'hui%2C+cloud-native+demain" alt="roles" />
 
@@ -34,21 +34,11 @@
 ~ $ whoami
 ```
 
-Je suis Fanilo — ingénieur full-stack basé à Tuléar, Madagascar. Mon travail
-ne s'arrête pas à « ça marche » : je conçois des systèmes pensés pour être
-maintenus, audités et opérés sereinement. Au quotidien, ça veut dire une couche
-de services **FastAPI** propre, une interface **React/Next.js** soignée, et tout
-ce qui tient l'ensemble debout en production. En ce moment, je travaille sur un
-middleware multi-tenant qui relie l'ERP **Sage 100** à une API REST moderne — le
-genre de pont legacy-vers-moderne que j'aime particulièrement.
+Mon travail ne s'arrête pas à « ça marche » : je conçois des systèmes pensés pour être maintenus, audités et opérés sereinement. Au quotidien, ça veut dire une couche de services **FastAPI** propre, une interface **React/Next.js** soignée, et tout ce qui tient l'ensemble debout en production. En ce moment, je travaille sur un middleware multi-tenant qui relie l'ERP **Sage 100** à une API REST moderne — le genre de pont legacy-vers-moderne que j'aime particulièrement.
 
-Trois mots résument ma façon de coder : **architecture, sécurité, performance**.
-Et une direction claire pour la suite : faire monter cette exigence vers le
-**cloud-native** — Kubernetes, GKE, autoscaling, observabilité.
+Trois mots résument ma façon de coder : **architecture, sécurité performance**.
+Et une direction claire pour la suite : faire monter cette exigence vers le **cloud-native** — Kubernetes, GKE, autoscaling, observabilité.
 
-- 🎓 En M2 Informatique à l'ENI Fianarantsoa
-- 🔐 Signature : audits ASVS, MFA/TOTP, rotation de secrets, auth flows rigoureux
-- 🔭 Ouvert aux opportunités en remote
 
 <br/>
 
